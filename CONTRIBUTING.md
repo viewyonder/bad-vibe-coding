@@ -8,6 +8,21 @@ Thank you for contributing to Bad Vibe Coding! This repo collects stories about 
 * **Story Format** Use stories/story-XXX.md (e.g., story-001.md) with the provided template. Place images in images/ with names like story-XXX-image1.png.
 * **Review** Maintainers review your PR, may request changes, and merge it into the main repo.
 
+## Editorial
+
+This isn't an anti-vibe coding or flame wars scene. It's simple a constructive and objective counterbalance to all the blind positivity about vibe coding. 
+
+> Sometimes, to know what something is, you first need to know what it isn't.
+
+Some simple editorial rules. PR submissions will be checked against these and rejected where they fall short.
+
+1. If you are submitting a bad vibe coding story from other sources (ie. it's not YOUR bad vibe coding story), then make sure to cite the original poster and link to the original post.
+2. Prefer links to original images over images copied and uploaded to the repo. Always add alt text to images.
+3. If you want to add an Opinion then add a section. If you do add an opinion, think and write like a journalist and at least offer a balanced perspective (thesis and antithesis). If you feel qualified, add a synthesis / 3rd way?
+4. Prefer human writing over AI writing. No problems with you using AI to help your writing, but if your submission smells like AI (ie. it's impenetrable or doesn't connect to Dear Reader) then it might be rejected.
+5. Bonus points for adding more context to your story. For example, if the story begins on X, are there related sources in that story? Are there other pieces online that would help flesh things out?
+6. Consider notifying the OP that you're submitting this to Bad Vibe Coding. Most OPs are open enough to share their experience and will not be upset. This isn't to flame or embarass them. It's actually about thanking them for sharing their experience to help everyone get better. It's kinda like a badge of honour!
+
 ## How to create your story
 
 We use markdown for our stories. Each story is a standalone markdown file with its images in a central /images directory with all other images.
