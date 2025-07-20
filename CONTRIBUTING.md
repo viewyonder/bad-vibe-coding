@@ -1,6 +1,6 @@
 # Contributing to Bad Vibe Coding
 
-Thank you for contributing to bad-vibe-coding! This repo collects stories about when vibe coding goes wrong. Share your coding disasters, bugs, and lessons learned.
+Thank you for contributing to Bad Vibe Coding! This repo collects stories about when vibe coding goes wrong. Share your coding disasters, bugs, and lessons learned.
 
 ### Quick Overview
 
