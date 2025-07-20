@@ -27,25 +27,10 @@ Some simple editorial rules. PR submissions will be checked against these and re
 
 We use markdown for our stories. Each story is a standalone markdown file with its images in a central /images directory with all other images.
 
-You need a tool like VScode or Dillinger (many others).
+We use Github for collaboration which means you need to do two things to contribute:
 
-Before submitting your story, preview it to ensure formatting and images look correct.
-
-### Option 1: Visual Studio Code (Local Editor)
-
-* Download and install Visual Studio Code.
-* Open the bad-vibe-coding folder in VS Code.
-* Create or open your stories/story-XXX.md file.
-* Click the “Preview” button (magnifying glass) or press Ctrl+Shift+V (Windows/Linux) or Cmd+Shift+V (macOS) to see a live preview.
-* Add images to the images/ folder and use relative paths (e.g., ![Alt text](images/story-XXX-image1.png)). They’ll show in the preview if paths are correct.
-
-### Option 2: Pick a Markdown editor from this list
-
-[Awesome Markdown Editors & (Pre)viewers](https://github.com/mundimark/awesome-markdown-editors)
-
-## How to Contribute
-
-For contributors without write access to the main repo.
+* Fork this repo to your own Github account and submit PRs.
+* Use a tool like VScode or one of the many Markdown editors.
 
 ### 1. Fork the repository
 
@@ -54,7 +39,6 @@ Click the "Fork" button on the bad-vibe-coding GitHub page to create a copy unde
 ### 2. Clone your fork
 
 Clone your fork to your local machine:
-
 
 ```
 git clone https://github.com/your-username/bad-vibe-coding.git
@@ -65,7 +49,6 @@ cd bad-vibe-coding
 
 Create a new branch for your story. Use a descriptive name, like add-story-yourname or story-001:
 
-
 ```
 git checkout -b add-story-yourname
 ```
@@ -74,13 +57,21 @@ git checkout -b add-story-yourname
 
 Create a new Markdown file in the stories/ directory, named story-XXX.md (replace XXX with the next sequential number, e.g., story-001.md).
 
-Follow the Story Format below.
+Use a tool like VScode, Dillinger, or any from the list below. Save your changes in your branch of your repo. 
 
-If including images, place them in the images/ directory with names like story-XXX-image1.png. Reference images in your Markdown file using relative paths (e.g., ![Alt text](images/story-XXX-image1.png)).
+* [Awesome Markdown Editors & (Pre)viewers](https://github.com/mundimark/awesome-markdown-editors)
+
+**Make sure you've read all of this CONTRIBUTING document.**
+
+We prefer you to link to original images. Always add Alt Text before the URL: ![Alt text](ihttps://some.site/some.img)
+
+If including images, place them in the images/ directory with names like story-XXX-image1.png. 
+
+Reference images in your Markdown file using relative paths: e.g. ![Alt text](images/story-XXX-image1.png).
 
 ### 5. Commit your changes
 
-Stage and commit your files.
+Stage (add) and commit your files.
 
 ```
 git add stories/story-XXX.md images/story-XXX-*.*
