@@ -16,7 +16,7 @@ This isn't an anti-vibe coding or flame wars scene. It's simple a constructive a
 
 Some simple editorial rules. PR submissions will be checked against these and rejected where they fall short.
 
-1. *Citations and Linkes*: If you are submitting a bad vibe coding story from other sources (ie. it's not YOUR bad vibe coding story), then make sure to cite the original poster and link to the original post.
+1. *Citations and Links*: If you are submitting a bad vibe coding story from other sources (ie. it's not YOUR bad vibe coding story), then make sure to cite the original poster and link to the original post.
 2. *Image links over uploads*: Prefer links to original images over images copied and uploaded to the repo. Always add alt text to images.
 3. *Optional balanced opinion*: If you want to add an Opinion then add a section. If you do add an opinion, think and write like a journalist and at least offer a balanced perspective (thesis and antithesis). If you feel qualified, add a synthesis / 3rd way?
 4. *Human over AI*: Prefer human writing over AI writing. No problems with you using AI to help your writing, but if your submission smells like AI (ie. it's impenetrable or doesn't connect to Dear Reader) then it might be rejected.
