@@ -1,3 +1,8 @@
+---
+title: "How Replit deleted my production database - Jason Lemkin"
+layout: "story.njk"
+tags: ["replit"]
+---
 # How Replit deleted my production database
 
 Original Source:
