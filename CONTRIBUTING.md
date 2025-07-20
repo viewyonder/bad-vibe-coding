@@ -2,15 +2,17 @@
 
 Thank you for contributing to Bad Vibe Coding! This repo collects stories about when vibe coding goes wrong. Share your coding disasters, bugs, and lessons learned.
 
+> This is not anti-vibe coding: it's more about truthy vibe-coding over falsey vibe-coding.
+
 ### Quick Overview
 
 * **Contributors** Fork the repo, create a branch in your fork, add your story, push to your fork, and submit a PR to this repo.
-* **Story Format** Use stories/story-XXX.md (e.g., story-001.md) with the provided template. Place images in images/ with names like story-XXX-image1.png.
+* **Story Format** Use stories/story-date-user.md (e.g., story-20250720-viewyonder.md) with the provided template. Place images in images/ with names like story-date-user-1.png.
 * **Review** Maintainers review your PR, may request changes, and merge it into the main repo.
 
 ## Editorial
 
-This isn't an anti-vibe coding or flame wars scene. It's simple a constructive and objective counterbalance to all the blind positivity about vibe coding. 
+This isn't an anti-vibe coding or flame wars scene. It's simple a constructive and objective counterbalance to all the blind positivity about vibe coding. Stories don't have to have opinions. If they do they should be constructure and balanced: thesis, antithesis, synthesis.
 
 > Sometimes, to know what something is, you first need to know what it isn't.
 
