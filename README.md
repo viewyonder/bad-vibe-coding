@@ -1,7 +1,11 @@
 # Bad Vibe Coding
 A collection of stories about when vibe coding goes bad.
 
-This isn't anti-vibe coding, it's more about truthy vibe-coding over falsey vibe-coding.
+Is it BAD vibe coding, bad VIBE coding, or bad vibe CODING?
+
+> It's never -ve about the individual -- huge thanks and citations to everyone that share their story.
+
+This isn't anti-vibe coding, it's more about **truthy vibe-coding over falsey vibe-coding**.
 
 > Sometimes, to know what something is, you first have to know what it isn't.
 
